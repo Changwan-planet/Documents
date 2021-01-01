@@ -1,1 +1,4 @@
 https://github.com/weiji14?tab=repositories
+
+
+gfortran -g fcheck=all [filename.f90]
