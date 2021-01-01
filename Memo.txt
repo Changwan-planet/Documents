@@ -2,3 +2,6 @@ https://github.com/weiji14?tab=repositories
 
 
 gfortran -g fcheck=all [filename.f90]
+
+
+https://jblevins.org/log/double-free
