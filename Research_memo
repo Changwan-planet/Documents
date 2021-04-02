@@ -1,6 +1,7 @@
 #Keyword: active fault, Quaternary fault, Colluvial wedge, displacement, strike-slip
 
 #2010, Mike Dentith et al., Ground penetrating radar as a means of studying palaeofault scarps in a deeply weathered terrain, southwestern Western Australia
+!!This paper describe how to find the fault by using GPR in detail.  
 
 However, the vast majority of the possible palaeoscarps has not been studied in detail on the ground, and it is possible that landforms resulting from other
 processes could have been mistaken for palaeofault scarps.
@@ -9,3 +10,33 @@ This contribution presents the results of a test of the utility of ground penetr
 historic fault scarp (Meckering) and two confirmed palaeofault scarps (Hyden and Dumbleyung), see Fig. 1 for locations, are used to assess the usefulness of this method for confirming the existence of a
 palaeofault scarp by determining which aspects of these features give recognisable responses. Also of interest is assessing the usefulness of GPR surveys as a means for positioning trenches for palaeoseismic
 studies.
+
+The geological environment in the Yilgarn Craton/SWSZ has characteristics which suggest that obtaining useful high-quality GPR data is difficult. The attenuation of the GPR electromagnetic signal
+increases with the electrical conductivity of the subsurface. Thus, the saline groundwater and high clay content of the near-surface in the study area constitutes a far from ideal environment, and penetration
+is limited to a few metres.
+
+Since GPR tends to respond best to flat-lying laterally extensive features the best targets are sedimentary successions with alternation of ltdistinct beds of different
+lithotypes.
+
+
+
+Displacement of such bedding allows faults to be inferred. Changes in thickness of features too thin for their top and base to produce separable responses may be inferred from lateral changes in
+the amplitude and phase of the GPR response. Colluvium is often imaged in GPR surveys, but usually as a single wedge-shaped mass; individual fans associated with distinct phases of movement are
+usually too small to be identifiable. Reflections from the faults themselves are less common, but diffractions associated with horizons truncated by faults are common.
+
+Reverse faults are typically shallow to moderately dipping and they cause vertical displacements of sub-horizontal features, such as Fig. 3. Schematic cross-section across active faults showing features potentially
+detectable with GPR. a) Normal fault affecting a well bedded cover sequence. b) Reverse fault in a regolith dominated terrain. sedimentary layering. Features with such characteristics are good
+targets for GPR (Amos et al., 2007; McClymont et al., 2008). Referring to Fig. 3a, and using the idealised 1D models illustrated in Fig. 2a as a template, responses from reverse faulting in a deeply weathered
+terrain can be predicted. Many strong stratigraphic responses are unlikely; although ferricrete horizons and weathering fronts may be detectable. The gradual nature of lithological and weathering-
+intensity changes with depth is not favourable for strong GPR reflections. This, and the tendency for abrupt lateral changes in weathering character and its depth, are likely to favour diffracted
+responses rather than coherent reflectors. There is likely to be a strong physical property contrast at the base of any colluvium so this is a apotential target; a wedge-like form being expected.
+
+
+
+!1997, Liner and Liner, Application of GPR to a site investigation involving shallow faults
+Despite clay-rich soil, we found good GPR depth-of-penetration and data quality at this site although clays typically will significantly increase electrical conductivity of
+the soil, thus diminishing penetration. Commonly, soil conductivity surveying is done ahead of GPR. Soil conductivities above 20-30 mS/m indicate an area unsuited to
+GPR. Conductivity surveying was not included in our fieldwork, and no electrical conductivity measurements are available for the site.
+
+
+The interpretation of a fault is justified by proximity to a known fault, and because the Boone and Fayet-teville are not known to exist in stratigraphic contact.
